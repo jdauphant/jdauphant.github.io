@@ -5,4 +5,4 @@
 - AUGUST 19th, 2012 : Motorola PHOTON Q 4G LTE
 - SEPTEMBER 19th, 2012: Samsung Galaxy S Relay 4G
 - OCTOBER 9th, 2012 : LG Mach
-- JANUARY 27, 2014 : LG Optimus F3Q 
+- JANUARY 27th, 2014 : LG Optimus F3Q 
