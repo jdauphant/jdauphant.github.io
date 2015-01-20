@@ -15,7 +15,7 @@ author:
   name:           Julien DAUPHANT
   url:            https://twitter.com/jdauphant
 
-paginate:         1
+paginate:         3
 
 # Custom vars
 version:          1.0.0
