@@ -13,12 +13,13 @@ url:              http://julien.dauphant.com
 
 author:
   name:           Julien DAUPHANT
-  twitter:            https://twitter.com/jdauphant
+  twitter:        https://twitter.com/jdauphant
+  github:         https://github.com/jdauphant
 
 paginate:         3
 
 # Custom vars
-version:          1.0.0
+version:          1.0.1
 
 github:
   repo:           https://github.com/jdauphant/jdauphant.github.io
