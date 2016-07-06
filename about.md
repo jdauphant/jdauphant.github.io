@@ -10,6 +10,10 @@ title: About Me
 - Amator Cook
 
 ## My stack
+- Kotlin
+- Swift
+- iOS
+- Android
 - Scala
 - Play Framework
 - FreeBSD
