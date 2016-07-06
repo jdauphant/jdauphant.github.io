@@ -7,14 +7,15 @@ permalink:        pretty
 
 # Setup
 title:            Julien DAUPHANT
-tagline:          Blog of Julien
-description:      Personnal blog of Julien DAUPHANT @jdauphant
+tagline:          
+description:      Personnal page of Julien DAUPHANT @jdauphant
 url:              http://julien.dauphant.com
 
 author:
   name:           Julien DAUPHANT
   twitter:        https://twitter.com/jdauphant
   github:         https://github.com/jdauphant
+  medium:	  https://medium.com/@jdauphant
 
 paginate:         3
 
